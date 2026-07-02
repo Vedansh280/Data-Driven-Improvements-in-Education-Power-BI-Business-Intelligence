@@ -1,0 +1,199 @@
+# Data-Driven-Improvements-in-Education-Power-BI-Business-Intelligence
+
+📊 Data-Driven Improvements in Education | Power BI Business Intelligence Project
+📌 Project Overview
+
+The Data-Driven Improvements in Education project is an end-to-end Business Intelligence solution developed using Microsoft Power BI to analyze educational data and support evidence-based decision-making. The objective of this project is to transform multiple educational datasets into meaningful insights that can help stakeholders understand student performance, attendance patterns, teacher effectiveness, school infrastructure, and socio-economic influences on academic outcomes.
+
+The project demonstrates the complete Business Intelligence workflow—from raw data preparation to interactive dashboard development—using industry-standard Power BI techniques such as Power Query, Data Modeling, DAX, and Data Visualization.
+
+🎯 Business Objective
+
+Educational institutions and government organizations generate massive amounts of data every year. However, without proper analysis, it becomes difficult to identify performance trends and make informed decisions.
+
+This project aims to:
+
+Analyze student academic performance.
+Evaluate attendance trends.
+Study teacher qualifications and experience.
+Analyze school infrastructure availability.
+Understand socio-economic factors affecting education.
+Build an interactive dashboard for data-driven decision-making.
+📂 Dataset Overview
+
+The project uses five different datasets representing various aspects of the education system.
+
+Datasets Included
+Student Performance Data
+Attendance Data
+Teacher Information
+School Infrastructure Data
+Socio-Economic Data
+
+Combined Dataset Size
+
+1.65 Million+ Records
+Multiple related tables
+Relational Data Model
+🛠 Tools & Technologies Used
+Microsoft Power BI
+Power Query Editor
+DAX (Data Analysis Expressions)
+Power BI Data Modeling
+Microsoft Excel
+Interactive Dashboard Design
+🧹 Data Cleaning & Transformation (Power Query)
+
+The raw datasets were cleaned and transformed using Power Query Editor before loading into the Power BI data model.
+
+Data Cleaning Activities
+Imported multiple Excel datasets
+Verified data types
+Checked missing values
+Removed duplicate records
+Applied Trim & Clean transformations
+Standardized categorical values
+Validated relationships between datasets
+Performed consistency checks
+Prepared analysis-ready datasets
+🏗 Data Modeling
+
+A relational data model was created by connecting multiple tables using primary and foreign keys.
+
+Relationships Created
+Student Performance ↔ Attendance
+Student Performance ↔ Socio-Economic Data
+School Infrastructure ↔ Socio-Economic Data
+Teacher Data ↔ School Infrastructure (State Level)
+
+The project follows a Star Schema-inspired model to improve analytical performance and support cross-filtering between visuals.
+
+📐 DAX Measures Created
+
+Several DAX measures were developed to calculate dynamic KPIs and business metrics.
+
+Examples
+Average Score
+Highest Score
+Lowest Score
+Total Students
+Total Teachers
+Average Attendance
+Average Classrooms
+Average Computers
+Average Teacher Experience
+
+Additional analytical measures were recommended for future enhancement:
+
+Median Score
+Standard Deviation
+Outlier Detection
+Advanced Statistical Measures
+📊 Dashboard Features
+
+The final dashboard consists of three interactive report pages.
+
+📄 Page 1 – Executive Overview
+KPI Cards
+Average Score by State
+Parent Education Analysis
+Internet Access Coverage
+Library Availability
+Interactive Slicers
+📄 Page 2 – Teacher & Socio-Economic Analysis
+Teacher Qualification Analysis
+Teacher Training Completion
+Attendance vs Performance
+Family Income vs Score
+Scatter Plot Analysis
+📄 Page 3 – Infrastructure Analysis
+Average Classrooms by State
+Average Computers by State
+Infrastructure Comparison
+Cross-filtering between visuals
+Interactive State Analysis
+📈 Key Insights
+
+The dashboard provides several valuable business insights, including:
+
+Overall student performance across multiple states.
+Attendance trends and their relationship with academic scores.
+Teacher training completion analysis.
+School infrastructure comparison.
+Parent education and family income analysis.
+State-wise educational performance.
+Infrastructure readiness across schools.
+Comparative analysis using interactive filters.
+💡 Business Recommendations
+
+Based on the analysis, the project recommends:
+
+Improve teacher training completion.
+Enhance educational infrastructure where required.
+Monitor attendance using additional academic cycles.
+Expand performance analysis to more subjects.
+Improve data collection by strengthening table relationships.
+Introduce advanced statistical reporting using DAX.
+📚 Skills Demonstrated
+
+This project demonstrates practical knowledge of:
+
+Business Intelligence
+Data Cleaning
+Data Transformation
+Data Modeling
+DAX Calculations
+Dashboard Development
+Interactive Reporting
+Data Visualization
+Business Analytics
+Analytical Thinking
+📷 Project Resources
+📸 Dashboard Screenshots
+
+Dashboard Page 1
+
+🔗 Add Link Here
+
+Dashboard Page 2
+
+🔗 Add Link Here
+
+Dashboard Page 3
+
+🔗 Add Link Here
+
+📑 Project Presentation
+
+🔗 Add PPT Link Here
+
+📄 Technical Documentation
+
+🔗 Add Word/PDF Link Here
+
+📊 Dataset
+
+🔗 Add Dataset Link Here
+
+📁 Power BI File (.pbix)
+
+🔗 Add PBIX File Link Here
+
+🚀 Future Enhancements
+
+Possible future improvements include:
+
+Real-time data integration
+SQL Server connectivity
+Machine Learning predictions
+AI-powered insights
+Row-Level Security (RLS)
+Mobile dashboard optimization
+Automated report refresh
+Predictive analytics
+Power BI Service deployment
+👨‍💻 About This Project
+
+This project was developed as part of my learning journey in Business Intelligence and Data Analytics. It demonstrates the complete Power BI development lifecycle—from importing raw datasets and transforming them using Power Query to creating a relational data model, writing DAX measures, and designing an interactive dashboard that generates meaningful educational insights.
+
+The primary objective of this project is to strengthen my practical skills in Power BI while building portfolio-ready Business Intelligence projects aligned with real-world analytical scenarios.
